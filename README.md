@@ -19,8 +19,9 @@ This project enables wireless data collection of temperature and humidity from d
 
 
 ---
-
-## 🔧 Hardware Used
+## 1. NODE LORA
+---
+### 1.1. Hardware Used
 
 - STM32F103C8T6 (or C6T8)
 - LoRa RA-02 (SX1278)
@@ -31,7 +32,7 @@ This project enables wireless data collection of temperature and humidity from d
 
 ---
 
-## 🔌 Wiring (minimum)
+### 1.2. Wiring (minimum)
 
 | Component | STM32 Pins |
 |----------|------------|
