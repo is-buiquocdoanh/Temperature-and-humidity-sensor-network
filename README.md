@@ -43,19 +43,36 @@ This project enables wireless data collection of temperature and humidity from d
 | UART debug/config | USART1 (PA9: TX, PA10: RX) |
 | Power | 3.7V via Li-ion + TP4056 + boost circuit (if needed) |
 
+![Temp Graph](https://github.com/is-buiquocdoanh/Temperature-and-humidity-sensor-network/blob/c6fe3984819566b6ad45222c5caed27257874543/Image/Hardware.jpg)
+#### Image 1.1. Hardware node and gateway
+![Temp Graph](https://github.com/is-buiquocdoanh/Temperature-and-humidity-sensor-network/blob/main/Image/Uart_node.png)
+#### Image 1.2. Show debug via uart
 ---
-
-## 💻 PC Software (Python GUI)
-
-- Script: `LoRaMonitor.py`
+## 2. GATEWAY LORA
+### 2.1. Gate way display PC Sofware (Python GUI)
+- Script: `Gate_way_sofware.py`
+- Features:
+  - COM port selection
+  - Realtime data table
+  - Export to Excel
+  - Clear data
+ ![Temp Graph](https://github.com/is-buiquocdoanh/Temperature-and-humidity-sensor-network/blob/main/Image/gate_way_sofware.png)
+#### Image 2.1. Gateway software receives signal from node
+---
+### 2.2. Config node PC Sofware
+- Script: `Config_node.py`
 - Features:
   - COM port selection
   - Realtime data table
   - Send `SET:` command to nodes
-  - Export to Excel
-  - Clear data
-
-### 🧪 Configuration Command Format
-
+  - Configuration Command Format
+![Temp Graph](https://github.com/is-buiquocdoanh/Temperature-and-humidity-sensor-network/blob/main/Image/Config_node.png)
+#### Image 2.2. Software sends threshold adjustment signal and measurement cycle to node
 ```text
 SET:TMAX=35:TMIN=25:HMAX=75:HMIN=40:INTERVAL=15
+```
+---
+## Contact
+#### Author: is-buiquocdoanh
+#### Email: doanh762003@gmail.com
+#### Github: github.com/is-buiquocdoanh
