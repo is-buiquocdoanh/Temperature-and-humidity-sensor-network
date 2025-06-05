@@ -1,0 +1,12 @@
+../Core/Src/sx1278.c:29:6:SX1278_Select	1
+../Core/Src/sx1278.c:33:6:SX1278_Unselect	1
+../Core/Src/sx1278.c:37:6:SX1278_Reset	1
+../Core/Src/sx1278.c:44:9:SX1278_ReadRegister	1
+../Core/Src/sx1278.c:53:6:SX1278_WriteRegister	1
+../Core/Src/sx1278.c:60:6:SX1278_WriteBurst	1
+../Core/Src/sx1278.c:68:6:SX1278_ReadBurst	1
+../Core/Src/sx1278.c:76:6:SX1278_Init	2
+../Core/Src/sx1278.c:107:6:SX1278_Transmit	3
+../Core/Src/sx1278.c:127:6:SX1278_Receive	5
+../Core/Src/sx1278.c:155:6:SX1278_SetStandby	1
+../Core/Src/sx1278.c:159:6:SX1278_SetTxMode	1
