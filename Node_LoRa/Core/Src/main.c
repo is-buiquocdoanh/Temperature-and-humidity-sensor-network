@@ -71,7 +71,7 @@ float temp_max = 30.0;
 float temp_min = 25.0;
 float humi_max = 70.0;
 float humi_min = 40.0;
-uint32_t interval_ms = 1000;  // mặc định 10 giây
+uint32_t interval_ms = 1000;  // mặc định 1 giây
 
 uint8_t uart_rx_buf[64];
 char uart_line[64];
@@ -231,7 +231,7 @@ int main(void)
 			int hum_frac = (int) ((humidity - hum_int) * 10);
 
 			//Send data via UART & LoRa
-			uint8_t node_id = 99;
+			uint8_t node_id = 01;
 			sprintf(buffer, "NODE%d:%d.%d:%d.%d\r\n", node_id, temp_int,
 					temp_frac, hum_int, hum_frac);
 			HAL_UART_Transmit(&huart1, (uint8_t*) buffer, strlen(buffer),
@@ -296,7 +296,7 @@ int main(void)
 //	  // ---- CHẾ ĐỘ SLEEP ----
 //	  HAL_SuspendTick();  // Ngừng SysTick để không tự wake up
 //	  HAL_PWR_EnterSLEEPMode(PWR_MAINREGULATOR_ON, PWR_SLEEPENTRY_WFI);
-//	  HAL_ResumeTick();   // Khi wake up xong, bật lại SysTick
+//	  HAL_ResumeTick();   // Khi wake up xong, bật lại SysTick;
 
 
     /* USER CODE END WHILE */

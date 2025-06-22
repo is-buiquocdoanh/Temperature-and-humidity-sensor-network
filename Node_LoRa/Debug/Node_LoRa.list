@@ -3718,8 +3718,8 @@ int main(void)
  8001f3e:	647b      	str	r3, [r7, #68]	@ 0x44
 
 			//Send data via UART & LoRa
-			uint8_t node_id = 99;
- 8001f40:	2363      	movs	r3, #99	@ 0x63
+			uint8_t node_id = 01;
+ 8001f40:	2301      	movs	r3, #1
  8001f42:	f887 3043 	strb.w	r3, [r7, #67]	@ 0x43
 			sprintf(buffer, "NODE%d:%d.%d:%d.%d\r\n", node_id, temp_int,
  8001f46:	f897 2043 	ldrb.w	r2, [r7, #67]	@ 0x43

@@ -4,9 +4,8 @@ import serial.tools.list_ports
 import datetime
 import pandas as pd
 from PyQt5.QtWidgets import (
-    QApplication, QWidget, QVBoxLayout, QPushButton,
-    QTableWidget, QTableWidgetItem, QFileDialog, QLabel,
-    QHBoxLayout, QComboBox
+    QApplication, QWidget, QVBoxLayout, QPushButton, QHBoxLayout,
+    QTableWidget, QTableWidgetItem, QFileDialog, QLabel, QComboBox, QSpinBox
 )
 from PyQt5.QtCore import QTimer
 
@@ -16,9 +15,10 @@ class LoRaMonitor(QWidget):
         self.setWindowTitle("LoRa Gateway Data Logger")
         self.resize(700, 500)
 
-        self.ser = None  # chưa kết nối
+        self.ser = None
         self.data = []
         self.last_save_time = {}
+        self.sample_interval = 20  # mặc định 20 giây
 
         self.init_ui()
 
@@ -28,20 +28,26 @@ class LoRaMonitor(QWidget):
     def init_ui(self):
         layout = QVBoxLayout()
 
-        # Dòng chọn COM
-        port_layout = QHBoxLayout()
-        port_layout.addWidget(QLabel("Chọn cổng COM:"))
-        self.com_box = QComboBox()
+        # COM + Sample Time
+        config_layout = QHBoxLayout()
+        self.com_selector = QComboBox()
         self.refresh_com_ports()
-        port_layout.addWidget(self.com_box)
+        config_layout.addWidget(QLabel("COM Port:"))
+        config_layout.addWidget(self.com_selector)
+
+        self.sample_input = QSpinBox()
+        self.sample_input.setRange(1, 3600)
+        self.sample_input.setValue(20)
+        config_layout.addWidget(QLabel("Sample time (s):"))
+        config_layout.addWidget(self.sample_input)
 
         self.connect_btn = QPushButton("Kết nối")
-        self.connect_btn.clicked.connect(self.connect_com)
-        port_layout.addWidget(self.connect_btn)
+        self.connect_btn.clicked.connect(self.connect_serial)
+        config_layout.addWidget(self.connect_btn)
 
-        layout.addLayout(port_layout)
+        layout.addLayout(config_layout)
 
-        self.status_label = QLabel("Chưa kết nối")
+        self.status_label = QLabel("Chưa kết nối COM")
         layout.addWidget(self.status_label)
 
         self.table = QTableWidget(0, 4)
@@ -57,64 +63,58 @@ class LoRaMonitor(QWidget):
         clear_btn.clicked.connect(self.clear_data)
         btn_layout.addWidget(clear_btn)
 
-        refresh_btn = QPushButton("Làm mới COM")
-        refresh_btn.clicked.connect(self.refresh_com_ports)
-        btn_layout.addWidget(refresh_btn)
-
         layout.addLayout(btn_layout)
         self.setLayout(layout)
 
     def refresh_com_ports(self):
-        self.com_box.clear()
+        self.com_selector.clear()
         ports = serial.tools.list_ports.comports()
         for port in ports:
-            self.com_box.addItem(port.device)
+            self.com_selector.addItem(port.device)
 
-    def connect_com(self):
+    def connect_serial(self):
         if self.ser and self.ser.is_open:
             self.ser.close()
-            self.ser = None
             self.connect_btn.setText("Kết nối")
-            self.status_label.setText("Đã ngắt kết nối.")
+            self.status_label.setText("Đã ngắt kết nối")
             self.timer.stop()
             return
 
-        port = self.com_box.currentText()
         try:
+            port = self.com_selector.currentText()
             self.ser = serial.Serial(port, 115200, timeout=1)
-            self.status_label.setText(f"Đã kết nối {port}")
+            self.sample_interval = self.sample_input.value()
+            self.status_label.setText(f"Kết nối {port} thành công. Lấy mẫu mỗi {self.sample_interval}s")
             self.connect_btn.setText("Ngắt")
-            self.timer.start(100)
+            self.timer.start(100)  # đọc COM mỗi 100ms
         except Exception as e:
             self.status_label.setText(f"Lỗi kết nối: {e}")
 
     def read_data(self):
-        if not self.ser or not self.ser.is_open:
-            return
-
         try:
-            line = self.ser.readline().decode(errors='ignore').strip()
-            if line.startswith("NODE"):  # hoặc \"Node:\" tuỳ định dạng
-                # Ví dụ: NODE99:28.3:65.4
-                parts = line.replace("NODE", "").split(":")
-                if len(parts) == 3:
-                    node = parts[0].strip()
-                    temp = float(parts[1])
-                    humi = float(parts[2])
-                    now_dt = datetime.datetime.now()
-                    now_str = now_dt.strftime("%d/%m/%Y %H:%M:%S")
+            if not self.ser or not self.ser.is_open:
+                return
 
-                    last_time = self.last_save_time.get(node, None)
-                    if last_time is None or (now_dt - last_time).total_seconds() >= 20:
-                        self.data.append([node, now_str, temp, humi])
-                        self.update_table(node, now_str, temp, humi)
-                        self.last_save_time[node] = now_dt
-                        self.status_label.setText(f"Đã ghi mẫu từ Node {node}")
-                    else:
-                        wait = 20 - int((now_dt - last_time).total_seconds())
-                        self.status_label.setText(f"Đã nhận từ Node {node}, chờ {wait}s")
+            line = self.ser.readline().decode(errors='ignore').strip()
+            if line.startswith("Node:"):
+                parts = line.split(',')
+                node = parts[0].split(':')[1].strip()
+                temp = float(parts[1].split(':')[1].replace('C', '').strip())
+                humi = float(parts[2].split(':')[1].replace('%', '').strip())
+                now_dt = datetime.datetime.now()
+                now_str = now_dt.strftime("%d/%m/%Y %H:%M:%S")
+
+                last_time = self.last_save_time.get(node, None)
+                if last_time is None or (now_dt - last_time).total_seconds() >= self.sample_interval:
+                    self.data.append([node, now_str, temp, humi])
+                    self.update_table(node, now_str, temp, humi)
+                    self.last_save_time[node] = now_dt
+                    self.status_label.setText(f"Đã ghi từ Node {node}")
+                else:
+                    wait = self.sample_interval - int((now_dt - last_time).total_seconds())
+                    self.status_label.setText(f"Đã nhận từ Node {node}, chờ {wait}s")
         except Exception as e:
-            self.status_label.setText(f"Lỗi đọc dữ liệu: {e}")
+            self.status_label.setText(f"Lỗi: {e}")
 
     def update_table(self, node, timestamp, temp, humi):
         row = self.table.rowCount()
