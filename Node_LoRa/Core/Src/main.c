@@ -238,7 +238,7 @@ int main(void)
 			HAL_MAX_DELAY);
 
 			if (!LoRa_transmit(&myLoRa, (uint8_t*) buffer, strlen(buffer),
-					2000)) {
+					100)) {
 				HAL_UART_Transmit(&huart1, (uint8_t*) "LoRa Send Error\r\n", 17,
 				HAL_MAX_DELAY);
 			}
