@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Added Component: Designator=R6(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT1K00/1760090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2346-dien-tro-1k-0805-1-50c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=R6-1
+Added Pin To Net: NetName=NetC9_2 Pin=R6-2
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR17_2
+Added Member To Class: ClassName=NodeLORA Member=Component R17 1.2k 1%

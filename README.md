@@ -1,5 +1,5 @@
 # TEAMPERATURE AND HUMIDITY SENSOR NETWORK (STM32F103 + RA-02)
-
+# Merge branch 'main' from remote to sync latest changes
 This project enables wireless data collection of temperature and humidity from distributed sensing nodes using STM32F103 + AHT10 sensor + LCD + LoRa RA-02. Data is transmitted to a PC gateway and displayed/stored via a GUI application.
 
 ---

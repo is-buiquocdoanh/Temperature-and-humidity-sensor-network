@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NodeLORA.PcbDoc   5/18/2025  4:06:30 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NodeLORA-RoundHoles.TXT
+ASCII SlotHoles File : NodeLORA-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             167       PTH        24.66inch (626.38mm)
+T2      24mil (0.599mm)                                           Slot              4         PTH        1.37inch (34.90mm)
+T3      35mil (0.889mm)                                           Round             8         PTH        2.70inch (68.60mm)
+T4      35mil (0.899mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T5      39mil (1.001mm)                                           Round             6         PTH        3.53inch (89.54mm)
+T6      98mil (2.499mm)                                           Round             2         PTH        2.85inch (72.30mm)
+T7      118mil (3mm)                                              Round             2         NPTH       2.19inch (55.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              191
+
+Total Processing Time (hh:mm:ss) : 00:00:00

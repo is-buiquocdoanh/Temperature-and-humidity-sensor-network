@@ -1,0 +1,698 @@
+Added Component: Designator=C1(CAP-ALU-B)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_DMBJ-RVT1E100M0405-10UF-25V_C970655.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DMBJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RVT1E100M0405 10UF 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$ 0.0183"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "B"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1976-tu-104k-01uf-100nf-0805-50v-10-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP-ALU-B)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_DMBJ-RVT1E100M0405-10UF-25V_C970655.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DMBJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RVT1E100M0405 10UF 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$ 0.0183"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "B"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1976-tu-104k-01uf-100nf-0805-50v-10-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1976-tu-104k-01uf-100nf-0805-50v-10-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1976-tu-104k-01uf-100nf-0805-50v-10-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1976-tu-104k-01uf-100nf-0805-50v-10-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1976-tu-104k-01uf-100nf-0805-50v-10-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1976-tu-104k-01uf-100nf-0805-50v-10-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/kemet/C0805C200K5RAC7800/8572459"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "C0805C200K5RAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2901-tu-20pf-0805-50v-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/kemet/C0805C200K5RAC7800/8572459"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "C0805C200K5RAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2901-tu-20pf-0805-50v-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1976-tu-104k-01uf-100nf-0805-50v-10-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/kemet/C0805C220K5GAC7800/2212195"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "C0805C220K5GAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1061-tu-khong-phan-cuc-0805.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP-ALU-B)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_DMBJ-RVT1E100M0405-10UF-25V_C970655.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DMBJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RVT1E100M0405 10UF 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$ 0.0183"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "B"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1976-tu-104k-01uf-100nf-0805-50v-10-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1976-tu-104k-01uf-100nf-0805-50v-10-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C1206)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B226MPHNNNE/3888806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CL31B226MPHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/4805-tu-khong-phan-cuc-1206.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "400"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C1206)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B226MPHNNNE/3888806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CL31B226MPHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/4805-tu-khong-phan-cuc-1206.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "400"; VariantName = "[No Variations]"
+Added Component: Designator=D1(L0805-GREEN)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/kingbright/APHCM2012CGCK-F01/1747492?s=N4IgTCBcDaIAQEEAKAJAwgWTABgIxjQHE0BpAMTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "APHCM2012CGCK-F01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/10107-17-21ghc-yr1t13t-led-0805-sang-mau-xanh-luc-emerald-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "530"; VariantName = "[No Variations]"
+Added Component: Designator=D2(L0805-ORANGE)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/kingbright/APHCM2012SECK-F01/1747494?s=N4IgTCBcDaIIIAUASBhAsmADARjAZQFEUBpAMRxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "APHCM2012SECKF01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/6701-led-0805-cac-mau.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "230"; VariantName = "[No Variations]"
+Added Component: Designator=D3(L0805-RED)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/span-style-background-color-ff0-LED-span-Indication-Discrete_Kingbright-APT2012SECK-J3-PRV_C5569452.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "APT2012SECK/J3-PRV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.2831"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/10106-17-21surcs530-a3tr8-led-red-0805-624nm-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "530"; VariantName = "[No Variations]"
+Added Component: Designator=D4(L0805-BLUE)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/liteon/LTST-C170TBKT/388527?s=N4IgTCBcDaIAQBkAqBlJBhAjAdgAxICEBpJEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "LiteOnInc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "LTSTC170TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/6340-150080bs75000-led-sang-mau-xanh-duong-blue-clear-0805-smd.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "600"; VariantName = "[No Variations]"
+Added Component: Designator=D5(L0805-RED)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/span-style-background-color-ff0-LED-span-Indication-Discrete_Kingbright-APT2012SECK-J3-PRV_C5569452.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "APT2012SECK/J3-PRV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.2831"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/10106-17-21surcs530-a3tr8-led-red-0805-624nm-10c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "530"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SMA(DO-214AC))
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Schottky-Diodes_hongjiacheng-SS54_C7420369.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "hongjiacheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "SS54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/8500-1n5824-ss54-sma-diode-schottky-5a-40v.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "1600"; VariantName = "[No Variations]"
+Added Component: Designator=H1(H1x4M)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/adam-tech/ADT-AMP1251104S2BS192A1/9832039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "ADT-AMP1251104S2BS192A1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.30000"; VariantName = "[No Variations]"
+Added Component: Designator=H2(H1x4M)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/adam-tech/ADT-AMP1251104S2BS192A1/9832039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "ADT-AMP1251104S2BS192A1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.30000"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOT-23-5)
+Add component (AddParameter): Name = "Current - Output"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Quiescent (Iq)"; Value = "8 µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Supply (Max)"; Value = "30 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "2.7V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/DC-DC-Converters_Silergy-Corp-SY8089AAAC_C78988.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MaxLinear, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "SPX3819M5-L-3-3/TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?@(TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1481"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Step-down"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/5370-sy8089a1aac-conv-dc-dc-single-step-down-55v-sot-23.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "3500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Max)"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(JUMPER2x)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/marutsuelec/21601X40GSE/21669074"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Marutsuelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "21601X40GSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxtvn.com/2835-jump-chot-cac-mau-254mm.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "130"; VariantName = "[No Variations]"
+Added Component: Designator=J2(TYPE C 6P)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/USB-Connectors_Hanbo-Electronic-MC-301D-H20_C7432477.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hanbo Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "MC-301D-H20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1471"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/8166-cong-type-c-cai-6p-4-chan-co-dinh.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "1000"; VariantName = "[No Variations]"
+Added Component: Designator=J3(18650-PLUGIN)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Battery-Connectors_MYOUNG-BH-18650-B1BA002_C2988620.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MYOUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "BH-18650-B1BA002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/9549-de-pin-18650-1-cell-han-dan-77x208mm.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink Plugin"; Value = "https://linhkien.cxt.vn/6821-de-pin-18650-1-cell-han-mach.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "13000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice Plugin"; Value = "5500"; VariantName = "[No Variations]"
+Added Component: Designator=L1(L0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/blm21pg121bh1d/10702696?_gl=1*1cqgywr*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwpP63BhDYARIsAOQkATayJr9wkNih7WH9IZ04A1s7wgSB7TmpdGB8wZexjyTXcSZgPREQqjgaAodYEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "BLM21PG121BH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/6265-ferrite-beads-smd0805-cac-gia-tri.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "300"; VariantName = "[No Variations]"
+Added Component: Designator=L2(L0420)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Inductors-SMD_TECHFUSE-SL0420-2R2M_C22463806.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TECHFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "SL0420-2R2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0420"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0985"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/7877-cuon-cam-0420-cac-gia-tri.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "2000"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/MOSFETs_ElecSuper-AO3400_C5224189.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ElecSuper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "AO3400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2689-ao3400-mosfet-n-ch-30v-58a-sot23-3.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "900"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/MOSFETs_ElecSuper-AO3400_C5224189.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ElecSuper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "AO3400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2689-ao3400-mosfet-n-ch-30v-58a-sot23-3.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "900"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT1K50/1760652"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT1K50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2666-dien-tro-0805-1-thong-so-tu-1k-den-91k.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/thin-film-technology-corp/D1TFAS0805WJUMPF-T5/22983913"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Thin Film Technology Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "D1TFAS0805WJUMPF-T5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2899-dien-tro-0r-0805-1-50c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT1K50/1760652"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT1K50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2666-dien-tro-0805-1-thong-so-tu-1k-den-91k.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/thin-film-technology-corp/D1TFAS0805WJUMPF-T5/22983913"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Thin Film Technology Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "D1TFAS0805WJUMPF-T5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2899-dien-tro-0r-0805-1-50c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT1K50/1760652"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT1K50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2666-dien-tro-0805-1-thong-so-tu-1k-den-91k.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT10K0/1760676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/6741-dien-tro-10k-0805-1-50c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "36"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT10K0/1760676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/6741-dien-tro-10k-0805-1-50c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "36"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT100R/1760711"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2343-dien-tro-0805-1-thong-so-tu-0r-den-910r.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FG100K/1712614"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FG100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2352-dien-tro-100k-0805-1-50c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT1K00/1760090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2346-dien-tro-1k-0805-1-50c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT5K10/1760394"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT5K10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/3017-dien-tro-51k-0805-1-50c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT5K10/1760394"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT5K10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/3017-dien-tro-51k-0805-1-50c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT1K00/1760090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2346-dien-tro-1k-0805-1-50c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT1K00/1760090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2346-dien-tro-1k-0805-1-50c.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT22K1/1760211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT22K1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/6147-dien-tro-0805-1-thong-so-tu-1k-den-91k.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT1K20/1760625"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RMCF0805FT1K20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2347-dien-tro-0805-1-thong-so-tu-1k-den-91k.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "46"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW_6X3.5mm_2SMD)
+Add component (AddParameter): Name = "Base Product Number"; Value = "B3U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3U-1000P/1534338"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link2"; Value = "https://www.digikey.cn/en/products/detail/c-k/PTS636-SM25F-SMTR-LFS/10071742?s=N4IgTCBcDaIAoBUDKA2AzCgBEgsmArAGLY4IBKmAMoUiALoC%2BQA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics Inc-EMC Div"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "B3U-1000P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price2"; Value = "¥1.95000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1784-nut-nhan-smd-2p.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "440"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(DIPSWITCHES_2P)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/span-style-background-color-ff0-DIP-span-span-style-background-color-ff0-Switches-span_Cixi-Tonver-Elec-VDG-02HG-R_C3661.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Tonver Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "VDG-02HG-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1568"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/2892-cong-tac-bit-254mm-chan-cam-thang.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "1800"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(SMSWITCH_1P)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/DIP-Switches_SM-Switch-SMQS-01R-TP_C5299502.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SM Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "SMQS-01R-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1597"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/3473-cong-tac-bit-254mm-chan-cam-thang.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "2000"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LQFP-48)
+Add component (AddParameter): Name = "Base Product Number"; Value = "STM32F103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connectivity"; Value = "CANbus, I2C, IrDA, LINbus, SPI, UART/USART, USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Processor"; Value = "ARM® Cortex®-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Size"; Value = "32-Bit Single-Core"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Converters"; Value = "A/D 10x12b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F103C8T6/1646338"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I/O"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Type"; Value = "Internal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "48-LQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peripherals"; Value = "DMA, Motor Control PWM, PDR, POR, PVD, PWM, Temp Sensor, WDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "6.11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Program Memory Size"; Value = "64KB (64K x 8)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Program Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = "20K x 8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "72MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1130-stm32f103c8t6.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "28000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply (Vcc/Vdd)"; Value = "2V ~ 3.6V"; VariantName = "[No Variations]"
+Added Component: Designator=U2(RA-02-SX1278)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/LoRa-Modules_Ai-Thinker-Ra-02_C90039.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ai-Thinker"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "Ra-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-16P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "5.5811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/3446-module-wireless-sx1278-lora-ra-02-433mhz.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "115000"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT-23-6)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Battery-Management_YONGYUTAI-DW01A_C2927799.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YONGYUTAI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "DW01A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0295"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/6473-dw01a-ic-bao-ve-pin-sot23-6.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "1000"; VariantName = "[No Variations]"
+Added Component: Designator=U4(ESOP-8)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Battery-Management_TOPPOWER-Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TOPPOWER(Nanjing Extension Microelectronics)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "TP4056-42-ESOP8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "ESOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1268-tp4056-ic-battery-management-1a-esop-8-umw.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "2000"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(5032-2)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Crystals_TXC-Corp-AA08000016_C409346.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TXC Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "AA08000016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "5032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.4319"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNlink"; Value = "https://linhkien.cxt.vn/1388-thach-anh-5032-2-chan-dan.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VNprice"; Value = "4400"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=C1-1
+Added Pin To Net: NetName=+3.3V Pin=C2-2
+Added Pin To Net: NetName=+3.3V Pin=C3-1
+Added Pin To Net: NetName=+3.3V Pin=C4-2
+Added Pin To Net: NetName=+3.3V Pin=C5-2
+Added Pin To Net: NetName=+3.3V Pin=C6-2
+Added Pin To Net: NetName=+3.3V Pin=C7-2
+Added Pin To Net: NetName=+3.3V Pin=C8-2
+Added Pin To Net: NetName=+3.3V Pin=C13-2
+Added Pin To Net: NetName=+3.3V Pin=C18-2
+Added Pin To Net: NetName=+3.3V Pin=H1-1
+Added Pin To Net: NetName=+3.3V Pin=H2-1
+Added Pin To Net: NetName=+3.3V Pin=L1-2
+Added Pin To Net: NetName=+3.3V Pin=L2-2
+Added Pin To Net: NetName=+3.3V Pin=R6-2
+Added Pin To Net: NetName=+3.3V Pin=R7-2
+Added Pin To Net: NetName=+3.3V Pin=R9-2
+Added Pin To Net: NetName=+3.3V Pin=U1-9
+Added Pin To Net: NetName=+3.3V Pin=U1-24
+Added Pin To Net: NetName=+3.3V Pin=U1-36
+Added Pin To Net: NetName=+3.3V Pin=U1-48
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=BOOT0 Pin=R6-1
+Added Pin To Net: NetName=BOOT0 Pin=SW2-1
+Added Pin To Net: NetName=BOOT0 Pin=U1-44
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=BOOT1 Pin=R7-1
+Added Pin To Net: NetName=BOOT1 Pin=SW2-2
+Added Pin To Net: NetName=BOOT1 Pin=U1-20
+Added Net: Name=BOOT1
+Added Pin To Net: NetName=DIO0 Pin=U1-10
+Added Pin To Net: NetName=DIO0 Pin=U2-5
+Added Net: Name=DIO0
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H2-4
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-A12
+Added Pin To Net: NetName=GND Pin=J2-B12
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Net: Name=GND
+Added Pin To Net: NetName=LED1 Pin=R1-1
+Added Pin To Net: NetName=LED1 Pin=U1-39
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=R3-1
+Added Pin To Net: NetName=LED2 Pin=U1-40
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=R5-1
+Added Pin To Net: NetName=LED3 Pin=U1-41
+Added Net: Name=LED3
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Pin To Net: NetName=MISO Pin=U2-13
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U1-17
+Added Pin To Net: NetName=MOSI Pin=U2-14
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=SW1-1
+Added Pin To Net: NetName=NetC9_2 Pin=U1-7
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R8-1
+Added Pin To Net: NetName=NetC12_2 Pin=U3-5
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=IC1-5
+Added Pin To Net: NetName=NetC13_1 Pin=R9-1
+Added Pin To Net: NetName=NetC13_1 Pin=R15-2
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=C16-2
+Added Pin To Net: NetName=NetC15_2 Pin=D4-1
+Added Pin To Net: NetName=NetC15_2 Pin=D5-1
+Added Pin To Net: NetName=NetC15_2 Pin=J2-A9
+Added Pin To Net: NetName=NetC15_2 Pin=J2-B9
+Added Pin To Net: NetName=NetC15_2 Pin=U4-4
+Added Pin To Net: NetName=NetC15_2 Pin=U4-8
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=IC1-1
+Added Pin To Net: NetName=NetC17_2 Pin=IC1-4
+Added Pin To Net: NetName=NetC17_2 Pin=SW3-2
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R5-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R13-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R14-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetH2_2 Pin=H2-2
+Added Pin To Net: NetName=NetH2_2 Pin=R2-1
+Added Net: Name=NetH2_2
+Added Pin To Net: NetName=NetH2_3 Pin=H2-3
+Added Pin To Net: NetName=NetH2_3 Pin=R4-1
+Added Net: Name=NetH2_3
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_3 Pin=L2-1
+Added Net: Name=NetIC1_3
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-30
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-31
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_A5 Pin=J2-A5
+Added Pin To Net: NetName=NetJ2_A5 Pin=R12-2
+Added Net: Name=NetJ2_A5
+Added Pin To Net: NetName=NetJ2_B5 Pin=J2-B5
+Added Pin To Net: NetName=NetJ2_B5 Pin=R11-2
+Added Net: Name=NetJ2_B5
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U2-3
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=U3-3
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-3
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=U3-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U3-2
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U4-6
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U4-7
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U4-2
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NSS Pin=U1-14
+Added Pin To Net: NetName=NSS Pin=U2-15
+Added Net: Name=NSS
+Added Pin To Net: NetName=OSC_IN Pin=C10-2
+Added Pin To Net: NetName=OSC_IN Pin=U1-5
+Added Pin To Net: NetName=OSC_IN Pin=Y1-2
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=C11-2
+Added Pin To Net: NetName=OSC_OUT Pin=U1-6
+Added Pin To Net: NetName=OSC_OUT Pin=Y1-1
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=RSTLR Pin=U1-19
+Added Pin To Net: NetName=RSTLR Pin=U2-4
+Added Net: Name=RSTLR
+Added Pin To Net: NetName=SCK Pin=U1-15
+Added Pin To Net: NetName=SCK Pin=U2-12
+Added Net: Name=SCK
+Added Pin To Net: NetName=SCL Pin=H1-3
+Added Pin To Net: NetName=SCL Pin=U1-42
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=H1-4
+Added Pin To Net: NetName=SDA Pin=U1-43
+Added Net: Name=SDA
+Added Pin To Net: NetName=SWCLK Pin=R4-2
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=R2-2
+Added Pin To Net: NetName=SWDIO Pin=U1-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=VBAT Pin=C14-1
+Added Pin To Net: NetName=VBAT Pin=D6-2
+Added Pin To Net: NetName=VBAT Pin=J3-1
+Added Pin To Net: NetName=VBAT Pin=R8-2
+Added Pin To Net: NetName=VBAT Pin=SW3-1
+Added Pin To Net: NetName=VBAT Pin=U4-5
+Added Net: Name=VBAT
+Added Class: Name=NodeLORA
