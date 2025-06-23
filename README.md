@@ -43,7 +43,10 @@ This project enables wireless data collection of temperature and humidity from d
 | UART debug/config | USART1 (PA9: TX, PA10: RX) |
 | Power | 3.7V via Li-ion + TP4056 + boost circuit (if needed) |
 
-![Temp Graph](https://github.com/is-buiquocdoanh/Temperature-and-humidity-sensor-network/blob/main/Image/Hardware.jpg)
+| Node | Gate Way |
+|----------|------------|
+|![Temp Graph](https://github.com/is-buiquocdoanh/Temperature-and-humidity-sensor-network/blob/main/Image/node_hardware.png)|![Temp Graph](https://github.com/is-buiquocdoanh/Temperature-and-humidity-sensor-network/blob/main/Image/Gateway_hardware.png)|
+
 #### Image 1.1. Hardware node and gateway
 ![Temp Graph](https://github.com/is-buiquocdoanh/Temperature-and-humidity-sensor-network/blob/main/Image/Uart_node.png)
 #### Image 1.2. Show debug via uart
@@ -56,7 +59,7 @@ This project enables wireless data collection of temperature and humidity from d
   - Realtime data table
   - Export to Excel
   - Clear data
- ![Temp Graph](https://github.com/is-buiquocdoanh/Temperature-and-humidity-sensor-network/blob/main/Image/gate_way_sofware.png)
+ ![Temp Graph](https://github.com/is-buiquocdoanh/Temperature-and-humidity-sensor-network/blob/main/Image/gatewaysw.png)
 #### Image 2.1. Gateway software receives signal from node
 ---
 ### 2.2. Config node PC Sofware
